@@ -20,7 +20,7 @@
 
 ---
 
-## $ git clone https:github.com/josmuiruri/AirBnB_clone/
+## $ git clone https:github.com/josMuiruri/AirBnB_clone/
 
 ## Execution
 
